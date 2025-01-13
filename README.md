@@ -1,6 +1,6 @@
                                          Cocktail Website
 Description
-Cocktail Finder Website is a React-based web application that allows users to search for and view details about various cocktails. It uses React Router for navigation, Styled Components for styling, and TanStack Query to optimize data fetching and caching.
+Cocktail Finder Website is a React-based web application that allows users to search for and view details about various cocktail drinks. It uses React Router for navigation, Styled Components for styling, and TanStack Query to optimize data fetching and caching.
 
 Features
 Navigation: Built with BrowserRouter, NavLink, and Link for seamless routing.
